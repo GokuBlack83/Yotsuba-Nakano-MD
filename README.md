@@ -79,13 +79,13 @@ Para que no pierda su progreso en Yotsuba, estos comandos realizarán un respald
 
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Bot Oficial 📍
 
-* <a href="https://wa.me/51918078054?text=!menu"><img alt="Bot Oficial 📍" src="https://img.shields.io/badge/Bot - Oficial📍-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/523132135825?text=!menu"><img alt="Bot Oficial 📍" src="https://img.shields.io/badge/Bot - Oficial📍-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 > No Spam Al Bot!
 ---------
 
 ### Editor Y Propietario Del Bot 🌹⚡️
 <a
-href="https://github.com/Diego-YL-177"><img src="https://github.com/Diego-YL-177.png" width="200" height="200" alt="Diego"/></a>
+href="https://github.com/GokuBlack83"><img src="https://github.com/GokuBlack83.png" width="200" height="200" alt="Goku"/></a>
 
 ## Colaboradores Del Bot ✨️   [![AzamiJs](https://github.com/AzamiJs.png?size=100)](https://github.com/AzamiJs) [![Ender-GB-Isis777](https://github.com/Ender-GB-Isis777.png?size=100)](https://github.com/Ender-GB-Isis777) [![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21) [![MoonContentCreator](https://github.com/MoonContentCreator.png?size=100)](https://github.com/MoonContentCreator)
