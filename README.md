@@ -13,7 +13,7 @@
 
 
 - ### ⚙️Configuracion
- Clonar Repo : Yotsuba [Aqui.](https://github.com/Diego-YL-177/Yotsuba-Nakano-MD/fork)
+ Clonar Repo : Yotsuba [Aqui.](https://github.com/GokuBlack83/Yotsuba-Nakano-MD/fork)
 
 
 
@@ -42,7 +42,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/Diego-YL-177/Yotsuba-Nakano-MD && cd Yotsuba-Nakano-MD
+git clone https://github.com/GokuBlack83/Yotsuba-Nakano-MD && cd Yotsuba-Nakano-MD
 ```
 ```bash
 yarn install && npm install
