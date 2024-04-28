@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Diego-YL-177/Yotsuba-Nakano-MD",
+  "homepage": "https://github.com/GokuBlack83/Yotsuba-Nakano-MD",
   "author": {
     "name": "Dɪᴇɢᴏ Oғᴄ"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Diego-YL-177/Yotsuba-Nakano-MD.git"
+    "url": "git+https://github.com/GokuBlack83/Yotsuba-Nakano-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Diego-YL-177/Yotsuba-Nakano-MD/issues"
+    "url": "https://github.com/GokuBlack83/Yotsuba-Nakano-MD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
